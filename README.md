@@ -56,3 +56,21 @@ import plotly.graph_objects as go
 import warnings
 warnings.filterwarnings("ignore")
 ```
+
+## Streamlit App:
+* In the 'Home' section of our project, We have information relating to **AirBnB** - all information on what it is, it's working and chronological development with reference videos to get started with what it is.
+  
+* In the 'Discover' section, users have the opportunity to explore countries through dynamic geo-visualizations with the country, street and property type filters, supplemented with price, rating insights. Additionally, we have a section below that can provide all the information regarding a particular property drilling down to the host and reviews as well.
+
+* In the 'Insight' section, users can explore the data more with some pre-built charts and graphs. We have also included filters for some of those visuals and interestingly, we have used **st.metrics** for some BI level dashboard experience in streamlit.
+
+* In the 'About' section, we have details on the project as mentioned above.
+
+## Power BI Dashboard:
+Power BI dashboard provides interactive visualizations and insights derived from the Airbnb dataset. It allows you to explore various aspects of Airbnb listings, including pricing trends, property types, and geographical distributions.
+
+* Summary (sheet 1)
+<img width="593" alt="Summary" src="https://github.com/user-attachments/assets/030f50f3-1f35-410c-aaaa-454fee8ca9c1">
+
+* Charting (sheet 2)
+ <img width="593" alt="Charting" src="https://github.com/user-attachments/assets/073b4c7c-0322-4cf5-9a3f-9e71dbd73c6e">
