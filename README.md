@@ -1,7 +1,9 @@
 # 3-AirBnb-Analysis
 This repository is specifically created for the purpose of showcasing my Data Science Capstone Projects done during my course at GUVI
 
-**Note:** Since the Power BI file is too big to upload, a copy of the file is available in my drive. You can view and [download the pbix](https://drive.google.com/file/d/1icXvw0A52epm-sT1OedBbA07-pJG16Z6/view?usp=sharing) file here.
+**Note:** Since the airbnb sample json data transformation file and Power BI file are too big to upload, a copy of the files are available in my drive. You can view them from the links below: 
+- Airbnb Data transformation - [download link](https://drive.google.com/file/d/1Hzq3pNNmGlsQSYPacafGqqp61s4Hnbhv/view?usp=sharing)
+- Power BI Analysis report - [download link](https://drive.google.com/file/d/1icXvw0A52epm-sT1OedBbA07-pJG16Z6/view?usp=sharing)
 
 ## What is AirBnB:
 **Airbnb, Inc.**, is an American company operating an online marketplace for short- and long-term homestays and experiences, founded in August 2008 in San Francisco, California, U.S. by Brian Chesky, Nathan Blecharczyk, and Joe Gebbia. Airbnb is a shortened version of its original name, AirBedandBreakfast.com. The company acts as a broker and harges a commission from each booking.
