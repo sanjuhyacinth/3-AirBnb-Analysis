@@ -74,3 +74,9 @@ Power BI dashboard provides interactive visualizations and insights derived from
 
 * Charting (sheet 2)
  <img width="593" alt="Charting" src="https://github.com/user-attachments/assets/073b4c7c-0322-4cf5-9a3f-9e71dbd73c6e">
+
+**Note:** Since the Power BI file is too big to upload, a copy of the file is available in my drive. You can view and [download the pbix](https://drive.google.com/file/d/1icXvw0A52epm-sT1OedBbA07-pJG16Z6/view?usp=sharing) file here.
+
+### Contact me:
+* Email : sanjuhwork@gmail.com
+* LinkedIn : https://www.linkedin.com/in/sanju-hyacinth/
