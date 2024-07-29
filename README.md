@@ -1,6 +1,8 @@
 # 3-AirBnb-Analysis
 This repository is specifically created for the purpose of showcasing my Data Science Capstone Projects done during my course at GUVI
 
+**Note:** Since the Power BI file is too big to upload, a copy of the file is available in my drive. You can view and [download the pbix](https://drive.google.com/file/d/1icXvw0A52epm-sT1OedBbA07-pJG16Z6/view?usp=sharing) file here.
+
 ## What is AirBnB:
 **Airbnb, Inc.**, is an American company operating an online marketplace for short- and long-term homestays and experiences, founded in August 2008 in San Francisco, California, U.S. by Brian Chesky, Nathan Blecharczyk, and Joe Gebbia. Airbnb is a shortened version of its original name, AirBedandBreakfast.com. The company acts as a broker and harges a commission from each booking.
 Learn more about Airbnb: [Click here](https://www.airbnb.co.in/)
@@ -75,7 +77,6 @@ Power BI dashboard provides interactive visualizations and insights derived from
 * Charting (sheet 2)
  <img width="593" alt="Charting" src="https://github.com/user-attachments/assets/073b4c7c-0322-4cf5-9a3f-9e71dbd73c6e">
 
-**Note:** Since the Power BI file is too big to upload, a copy of the file is available in my drive. You can view and [download the pbix](https://drive.google.com/file/d/1icXvw0A52epm-sT1OedBbA07-pJG16Z6/view?usp=sharing) file here.
 
 ### Contact me:
 * Email : sanjuhwork@gmail.com
